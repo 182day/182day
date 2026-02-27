@@ -9,7 +9,6 @@ Profesional con 13 años de evolución constante en el sector tecnológico, espe
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/fernando.contreras.716970)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/fersdelagarza/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-contreras-de-la-garza-11a0a1242/)
-[//] [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](TU_LINK_DE_X_AQUÍ)
 
 <br />
 
