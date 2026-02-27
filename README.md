@@ -2,8 +2,6 @@
 
 Profesional con 13 años de evolución constante en el sector tecnológico, especializado en la creación de sitios web, sistemas a medida y soluciones móviles. Cuento con un dominio sólido del stack React, PHP y Node.js, integrando el manejo de bases de datos relacionales y NoSQL como MySQL, PostgreSQL y MongoDB.
 
-<br />
-
 [![Portafolio](https://img.shields.io/badge/VER_PORTAFOLIO-000000?style=for-the-badge)](https://182day.github.io/)
 
 <br />
