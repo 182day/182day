@@ -4,7 +4,7 @@ Profesional con 13 años de evolución constante en el sector tecnológico, espe
 
 <br />
 
-[![Portafolio](https://img.shields.io/badge/Mi_Portafolio-FF5733?style=for-the-badge&logo=workplace&logoColor=white)](https://182day.github.io/)
+[![Portafolio](https://img.shields.io/badge/VER_PORTAFOLIO-000000?style=for-the-badge)](https://182day.github.io/)
 
 <br />
 
